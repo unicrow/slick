@@ -74,6 +74,7 @@
                 rtl: false,
                 slide: '',
                 slidesPerRow: 1,
+                activateRows: false,
                 slidesToShow: 1,
                 slidesToScroll: 1,
                 speed: 500,
