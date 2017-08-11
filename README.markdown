@@ -1,7 +1,7 @@
 slick
 -------
 
-[1]: <https://github.com/kenwheeler/slick>
+[1]: <https://github.com/unicrow/slick>
 
 _the last carousel you'll ever need_
 
@@ -229,9 +229,9 @@ Method | Argument | Description
 `slickUnfilter` | | Removes applied filter
 `slickGetOption` | option : string(option name) | Gets an option value.
 `slickSetOption` | change an option, `refresh` is always `boolean` and will update UI changes...
- | `option, value, refresh` | change a [single `option`](https://github.com/kenwheeler/slick#settings) to given `value`; `refresh` is optional.
+ | `option, value, refresh` | change a [single `option`](https://github.com/unicrow/slick#settings) to given `value`; `refresh` is optional.
  | `"responsive", [{ breakpoint: n, settings: {} }, ... ], refresh` | change or add [whole sets of responsive options](#responsive-option-example)
- | `{ option: value, option: value, ... }, refresh` | change  [multiple `option`s](https://github.com/kenwheeler/slick#settings) to corresponding `value`s.
+ | `{ option: value, option: value, ... }, refresh` | change  [multiple `option`s](https://github.com/unicrow/slick#settings) to corresponding `value`s.
 
 
 #### Example
